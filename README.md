@@ -55,8 +55,8 @@ This is a **learning-focused repo**, not a polished final product. It's a growin
 
 ## 👋 Connect with Me
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-link](https://linkedin.com/in/your-link)
+- GitHub: [heyprincehere](https://github.com/heyprincehere)
+- LinkedIn: [Prince Janiya](https://www.linkedin.com/in/prince-janiya-a31018261/)
 
 ---
 
